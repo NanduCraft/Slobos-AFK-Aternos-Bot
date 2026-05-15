@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Muzzyfan5.6",
+    "username": "Muzzyfan5",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "BlockBande.net",
     "port": 19132,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "/home 1",
-        "/p h Muzz_yyy ",
+       
         
       ]
     },
